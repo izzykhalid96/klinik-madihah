@@ -1,0 +1,5 @@
+{
+  "name": "Klinik Pergigian Madihah",
+  "description": "A gentle and professional dental clinic website for Klinik Pergigian Madihah, featuring service showcases, patient testimonials, WhatsApp booking, and a new online consultation request system.",
+  "requestFramePermissions": ["geolocation"]
+}
